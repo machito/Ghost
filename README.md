@@ -2,7 +2,6 @@
 
 <h1>First Things First</h1>
 <p>Welcome to Ghost – a CMS that's not really there. This is a fork of WordPress concentrated on publishing content for the modern web.</p>
-<p style="text-align: right">&#8212; Michael Castilla</p>
 
 <h1>Installation: Famous 5-minute install</h1>
 <ol>
