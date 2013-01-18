@@ -1,8 +1,8 @@
-#WordPress 3.5
+#WordPress 3.5 (Ghost)
 
 <h1>First Things First</h1>
-<p>Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I'm proud to be a part of. Thousands of hours have gone into WordPress, and we're dedicated to making it better every day. Thank you for making it part of your world.</p>
-<p style="text-align: right">&#8212; Matt Mullenweg</p>
+<p>Welcome to Ghost – a CMS that's not really there. This is a fork of WordPress concentrated on publishing content for the modern web.</p>
+<p style="text-align: right">&#8212; Michael Castilla</p>
 
 <h1>Installation: Famous 5-minute install</h1>
 <ol>
